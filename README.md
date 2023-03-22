@@ -1,2 +1,1 @@
-# PrepCourse-Henry2023
-Repositoreo de prueba del curso Henry 2023
+Este proyecto es una prueba de como crear un repositorio
